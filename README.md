@@ -8,6 +8,8 @@ We will study from the perspective of Precision Medicine the 	Prostate Adenocarc
 - analysis (with different similarity measures) of Differential Coexpressed Network based on DEGs;
 - extrapolation of communities (with different methods and via clustering techniques) in Patient Similarity Networks.
 
+**Remark .** This porject is still under revision.
+
 ### What's in here?
 - The notebook with alll the code we used to carry out the project `DEPM-1_proj_group-14.ipynb`
 - The reprt with our findings `report.pdf`.
