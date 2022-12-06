@@ -12,7 +12,7 @@ We will study from the perspective of Precision Medicine the 	Prostate Adenocarc
 
 ### What's in here?
 - The notebook with alll the code we used to carry out the project `DEPM-1_proj_group-14.ipynb`
-- The reprt with our findings `report.pdf`.
+- The reprt with our findings `DEPM-1_proj_group-14.pdf`.
 - Prvious versions of the notebook of the project called with different names, eg. `main.ipynb`, `DEPM_1.ipynb`, etc...
 
 **Remark .** The notebook `DEPM-1_proj_group-14.ipynb` contains R code. We used Google Colab to work on it since it offered GPUs, redy to use R Libraries and Packages, and remote access to the code. So, to run the notebbok, either use Google Colab with an R kernel, or use a locally available R distribution paying attention to the set up steps.
