@@ -14,7 +14,7 @@ There are two branches. In the `main` branch there are:
 - The reprt with our findings `DEPM-1_proj_group-14.pdf`.
 In the `previous versions` branche there are previous versions of the notebook `DEPM-1_proj_group-14.ipynb`.
 
-**Remark .** The notebook `DEPM-1_proj_group-14.ipynb` contains R code. We used Google Colab to work on it since it offered GPUs, redy to use R Libraries and Packages, and remote access to the code. So, to run the notebbok, either use Google Colab with an R kernel, or use a locally available R distribution paying attention to the set up steps. It is also possible to run locally the notebook, using a distribution like Anaconda, lounching the `ipynb` file with Jupiter Notebook equipped with an R kernel (provided that the necessary libraries needed to execute the code are available), but we haven't tested this procedure. 
+**Remark .** The notebook `DEPM-1_proj_group-14.ipynb` contains R code. We used Google Colab to work on it since it offered GPUs, redy to use R Libraries and Packages, and remote access to the code. So, to run the notebbok, either use Google Colab with an R kernel (e.g. by clicking the `Open In Colab` button), or use a locally available R distribution paying attention to the set up steps. It is also possible to run locally the notebook, using a distribution like Anaconda, lounching the `ipynb` file with Jupiter Notebook equipped with an R kernel (provided that the necessary libraries needed to execute the code are available), but we haven't tested this procedure. 
 
 ### Dataset
 All the relevant data was extracted from the Genomic Data Commons Data Portal using custom R code to carry out the necessary queries. See https://portal.gdc.cancer.gov/projects/TCGA-PRAD.
