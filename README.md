@@ -8,12 +8,11 @@ We will study from the perspective of Precision Medicine the 	Prostate Adenocarc
 - analysis (with different similarity measures) of Differential Coexpressed Network based on DEGs;
 - extrapolation of communities (with different methods and via clustering techniques) in Patient Similarity Networks.
 
-**Remark .** This porject is still under revision.
-
 ### What's in here?
+There are two branches. In the `main` branch there are:
 - The notebook with alll the code we used to carry out the project `DEPM-1_proj_group-14.ipynb`
 - The reprt with our findings `DEPM-1_proj_group-14.pdf`.
-- Prvious versions of the notebook of the project called with different names, eg. `main.ipynb`, `DEPM_1.ipynb`, etc...
+In the `previous versions` branche there are previous versions of the notebook `DEPM-1_proj_group-14.ipynb`.
 
 **Remark .** The notebook `DEPM-1_proj_group-14.ipynb` contains R code. We used Google Colab to work on it since it offered GPUs, redy to use R Libraries and Packages, and remote access to the code. So, to run the notebbok, either use Google Colab with an R kernel, or use a locally available R distribution paying attention to the set up steps.
 
