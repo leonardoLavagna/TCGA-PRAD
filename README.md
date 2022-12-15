@@ -10,9 +10,9 @@ We will study from the perspective of Precision Medicine the 	Prostate Adenocarc
 
 ### What's in here?
 There are two branches. In the `main` branch there are:
-- The notebook with alll the code we used to carry out the project `DEPM-1_proj_group-14.ipynb`
-- The reprt with our findings `DEPM-1_proj_group-14.pdf`.
-- The Slides of the project presentation `Slides.pdf`.
+- The notebook with alll the code we used to carry out the project `PRAD_hub_genes.ipynb.ipynb`
+- The reprt with our findings `report.pdf`.
+- The Slides of the project presentation `slides.pdf`.
 
 In the `previous versions` branch there are previous versions of the notebook `DEPM-1_proj_group-14.ipynb`.
 
