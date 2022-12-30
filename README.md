@@ -10,7 +10,7 @@ We will study from the perspective of Precision Medicine the 	Prostate Adenocarc
 
 ### What's in here?
 There are two branches. In the `main` branch there are:
-- The notebook with alll the code we used to carry out the project `PRAD_hub_genes.ipynb.ipynb`
+- The notebook with all the code we used to carry out the project `PRAD_hub_genes_corrected.ipynb` 
 - The reprt with our findings `report.pdf`.
 - The Slides of the project presentation `slides.pdf`.
 
